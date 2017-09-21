@@ -1607,6 +1607,8 @@ header {
 
 /* 3.1 Menu Toggle */
 
+
+/*
 a.menu-toggle {
   padding: 14px 0;
   color: #fff;
@@ -1630,6 +1632,8 @@ a.menu-toggle span {
 
 /* 3.2 Navigation */
 
+
+/*
 #nav-wrapper {
   position: fixed;
   top: 0;
@@ -1762,6 +1766,8 @@ a.menu-toggle span {
 
 /* 3.2.1 Navigation Bar */
 
+
+/*
 .navbar-nav>li {
   margin-left: 40px;
 }

@@ -1,0 +1,26 @@
+.navbar {
+  margin: 0 auto;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.9);
+  padding: 0 2rem;
+}
+
+.navbar .container-fluid .navbar-header {
+  margin: 0;
+}
+
+.navbar .navbar-brand {
+  padding: 0;
+}
+
+.navbar-nav a {
+  color: white;
+}
+
+.navbar-nav li a:hover {
+  color: black;
+}
+
+.navbar img {
+  margin-top: -0.5rem;
+}
