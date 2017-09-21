@@ -5,6 +5,11 @@
   padding: 0 2rem;
 }
 
+.navbar .container-fluid {
+  max-width: 1200px;
+  width: 100%;
+}
+
 .navbar .container-fluid .navbar-header {
   margin: 0;
 }
