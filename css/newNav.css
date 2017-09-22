@@ -1,12 +1,15 @@
+/* //////// Navbar Redesign Styles //////// */
+
 .navbar {
   margin: 0 auto;
-  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
   background-color: rgba(0, 0, 0, 0.9);
   padding: 0 2rem;
+  font-size: 1.4rem;
 }
 
 .navbar .container-fluid {
-  max-width: 1200px;
+  max-width: 1050px;
   width: 100%;
 }
 
@@ -27,5 +30,5 @@
 }
 
 .navbar img {
-  margin-top: -0.5rem;
+  margin-top: -1rem;
 }
