@@ -8,6 +8,10 @@
   font-size: 1.4rem;
 }
 
+.navbar .navbar-toggle .icon-bar {
+  background: white;
+}
+
 .navbar .container-fluid {
   max-width: 1050px;
   width: 100%;
